@@ -2,7 +2,7 @@
 # Repositorio para nuestro curso de kubernetes
 Repositorio para la creacion de nuestra web
 Codigo creado por Javier Manzanares
- 
+Probando  
 Para este tutorial, necesitará lo siguiente:
 
 Un usuario sudo en su servidor o en su entorno local.
@@ -57,7 +57,7 @@ CMD [ "npm", "start" ]
 
 Una vez tenemos nuestro docker fiel tenemos que crear el siguiente directorio:
 
-mkidr -p .github/workflows && cd .github/workflows
+mkdir -p .github/workflows && cd .github/workflows
 
 Y ahora creamos nuestra pipeline:
 

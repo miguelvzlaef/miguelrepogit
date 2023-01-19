@@ -2,7 +2,7 @@
 # Repositorio para nuestro curso de kubernetes
 Repositorio para la creacion de nuestra web
 Codigo creado por Javier Manzanares
-Probando  
+  
 Para este tutorial, necesitará lo siguiente:
 
 Un usuario sudo en su servidor o en su entorno local.

@@ -1,10 +1,9 @@
-vi docker-action
 
 name: web  CI/CD
 on:
   push:
     branches:
-      - 'main'
+      - 'master'
 jobs:
   build-container:
     name: build container
